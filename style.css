@@ -1,0 +1,22 @@
+body {
+  background:#020202;
+  color:#00ff88;
+  font-family: monospace;
+  padding:20px;
+}
+
+.header{
+  font-size:22px;
+  margin-bottom:20px;
+}
+
+.token{
+  border:1px solid #00ff8833;
+  padding:10px;
+  margin-bottom:10px;
+  border-radius:8px;
+}
+
+.token:hover{
+  background:#00ff8822;
+}
